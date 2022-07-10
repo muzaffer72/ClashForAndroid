@@ -54,3 +54,4 @@ See also [PRIVACY_POLICY.md](./PRIVACY_POLICY.md)
    ```
 
 6. Pick `app-<version>-foss-<arch>-release.apk` in `app/build/outputs/apk/foss/release/`
+ 
